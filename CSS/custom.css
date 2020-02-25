@@ -1,0 +1,9 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background: #0f6674;
+    color: white;
+}
